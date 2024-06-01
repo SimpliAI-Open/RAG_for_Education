@@ -6,3 +6,4 @@ Tech stack:
 3. Unstructured: document processing and chunking
 4. Sentence Transformer: text encoding
 5. Phi 3 mini: a small language model for people to play with
+6. Streamlit: Chatbot UI
