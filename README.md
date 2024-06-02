@@ -8,6 +8,7 @@ Tech stack:
 5. Phi 3 mini: a small language model for people to play with
 6. Streamlit: Chatbot UI
 
+```
 @misc{RAG_Edu_github,
   author = {Yiming Qian and Kexin Tang},
   title = {RAG for Education},
@@ -16,3 +17,4 @@ Tech stack:
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/SimpliAI-Open/RAG_for_Education}}
 }
+```
